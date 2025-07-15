@@ -2,7 +2,7 @@
 
 🎯 **Computer Science MSc | AI Enthusiast | Creative Builder of Smart Tech**
 
-I’m a passionate computer science student at [Universität des Saarlandes](https://www.uni-saarland.de/en/home.html), currently diving deep into the world of **AI**, **machine learning**, and **intelligent software systems**. My projects span from **driver safety** with real-time CV monitoring to **group travel planners** powered by recommendation systems and explainable AI.
+I’m a passionate computer science student at [Universität des Saarlandes](https://www.uni-saarland.de/en/home.html), currently diving deep into the world of **AI**, **machine learning**, and **intelligent software systems**. 
 
 💡 I love turning complex ideas into elegant, working products—especially when they solve real-world problems. Whether it's designing ML pipelines, digitizing historical archives, or building adaptive UIs, I bring curiosity, structure, and creativity to every line of code.
 
